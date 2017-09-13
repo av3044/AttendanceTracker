@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\.android\build-cache\e548c5a5092a5ebd5aa1fed4261891f3bf54bd57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\classes_bc2661f27491c3bad2d56ec7bf8c23a3d39e833d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ffe708f4b146328844badafad4edda9de92aa2d">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6cfe0cf742d8e93acc49029c98658a6d295a71cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5a9d1b944094b9b0554535d8c389618df95c0250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\.android\build-cache\d646528915db3e8af264f12132498d414ffeef90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\classes_c7ecd21c205fa38a80ba9cefece51a687601aa09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\.android\build-cache\65357bdcb1b6ef7b31eb491f8b2ccda5bffcde50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\classes_e2f6b6e4700d48a60b8ddb0307afd66284be3365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\.android\build-cache\6cee647d8f73e1793b7b82d7626d21db2c3688cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\classes_eef3061612ab0f3fc64bd4889667c7afa8e3693b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_f897592a8912f34729b40ec039024067661b6c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\.android\build-cache\5f24a95ea830276d26351a7faa2d483c52ad38cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\classes_8675edff97af83227cade0546bf4a411cb696113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\.android\build-cache\d309735942772a423df8e0be0b08a616a565ad4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\classes_b41af892e927582f4b459bbc7af03e157023f397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\.android\build-cache\5a60ef7b32185c5e402015bcb8420a7396828c5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\classes_1daeafeb507ace414e574849a8b86ccaaa2ba7a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\.android\build-cache\758b26d02fd2d1225bf2b48df3758bb4b14fb3e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\classes_d6bb7b109868632f9bd609e7f38a42368d45ab8f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6b58c976c42ebeae9ff69e2a8f62a32b4f87ca24\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\.android\build-cache\be8aa67a2a1c63dc3ad4616e66ff9d09dd5eec43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\classes_eeff1106c09468dc1ea87635b198db752b2dc3c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s528149\.android\build-cache\e116acf91d97580a2f7b0408b333c703d7924113\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\s528149\AndroidStudioProjects\AttandanceTracker\app\build\intermediates\pre-dexed\debug\classes_0e2c42a342fb73053c697874e87550fd1342021e.jar" />
+    </item>
+
+</items>
